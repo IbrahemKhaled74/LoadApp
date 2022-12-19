@@ -24,8 +24,6 @@ class Details : AppCompatActivity() {
         if (binding.statusText.text == "Success") binding.statusText.setTextColor(getColor(R.color.green))
         else binding.statusText.setTextColor(getColor(R.color.red))
 
-        if (binding.fileName.text == "Success") binding.fileName.setTextColor(getColor(R.color.green))
-        else binding.fileName.setTextColor(getColor(R.color.red))
 
         binding.okButton.setOnClickListener {
             finish()
