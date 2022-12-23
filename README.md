@@ -1,5 +1,8 @@
 # LoadApp
 
+Please ⭐️ this repo and share it with others.
+
+
 I created this Android app for the purposes of the [Udacity's Developing Android Apps with Kotlin Nanodegree Program](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940) to showcase my skills in **Android developement**.
 
 ## Screenshots
